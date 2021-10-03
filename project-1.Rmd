@@ -1,0 +1,23 @@
+title: "COVID Herd Immunity"
+date: '2021-10-03'
+
+## Possible Analysis and Keywords
+- Linear Regression
+- Normal Distribution
+- Time Series
+- COVID-19
+- COVID Data
+
+* Covid-19 herd immunity is tough to define in a single sense. I think it mostly depends on the efficacy of vaccine. I would provide emphasis on vaccine efficacy mostly. 
+* More people we can vaccinated will be more immune to covid
+*   
+                 
+## wish to build my webpage through following steps
+## ui.R
+### sidebarPanel
+-population who are eligible for vaccine  
+-population given vaccine(1st dose only and both doses)
+-age distribution of vaccinated people
+-types of vaccine
+-
+
