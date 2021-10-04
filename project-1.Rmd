@@ -12,18 +12,19 @@ title: "COVID Herd Immunity"
 * At first consider a small portion of population who need to immune from covid
 * consider:
  
--population of the area
--population who are eligible for vaccine  
--population given vaccine(1st dose only and both doses)
--age distribution of vaccinated people
--types of vaccine
--post covid health issue
--hospitalization 
--daily cases, deaths, recovered data
--infaction rate; ro=number of infections/no of those at risk of infection
+- population of the area
+- population who are eligible for vaccine  
+- population given vaccine(1st dose only and both doses)
+- age distribution of vaccinated people
+- vulnerable gropus who can not get vaccinated
+- types of vaccine
+- post covid health issue
+- hospitalization 
+- daily cases, deaths, recovered data
+- infaction rate; ro=number of infections/no of those at risk of infection
 
-* The lower infaction rate provides information that most people are immune to covid-19
-* Thus we will get herd immunity
-* Need to fix a lower bound to infection rate
-* Need to fix the proportion of the population that must be vaccinate against covid-19 
+#### The lower infaction rate provides information that most people are immune to covid-19
+#### Thus we will get herd immunity
+#### Need to fix a lower bound to infection rate
+#### Need to fix the proportion of the population that must be vaccinate against covid-19 
 
